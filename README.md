@@ -13,6 +13,7 @@ The framework was built with the following tools and configuration.
 - Java version 11.0.17
 - The Score app apk used for testing: com.fivemobile.thescore_24.4.0-24040.apk, and is located under /src/test/resources/thescore.MobileTestFramework.apps
 - Test data file: exceldata.xlsx, and is located under /src/test/resources/thescore.MobileTestFramework.testData
+- This is a maven project, pom.xml file includes the related dependencies
 
 ##Test Scenario: Open a league
 - Description: Verify the app opens the correct pages when user opens a league and navigate back to the Leagues Page
@@ -50,5 +51,3 @@ The test approach was based on the two possible flows of how a new user or a reg
 
 ## Coverage Assessment
 The tests covers a major feature of the app, which is to open different leagues to check the updated information. The test steps include not only tapping on the element on the screen, but also swiping the screen horizontally or vertically to find the desired element in order to verify the page is displayed accurately. It is designed to validate the regular user interaction with the app and the  app behaves accordingly as expected.
-
-## Github Repository
