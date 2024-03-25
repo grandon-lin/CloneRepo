@@ -36,7 +36,7 @@ mvn test
       - Close the popup dialog
       - Click on the Leagues tab
       - Verify the Leagues page is displayed
-      - Click on a league, selected from the test data file, for example, NHL
+      - Click on a league, which is selected from the test data file, for example, NHL
       - Verify the app takes the user to the NHL page
       - Click on the Navigate back button
       - Verify the user is redirected back to the Leagues page
@@ -49,7 +49,7 @@ mvn test
       - Close the popup dialog
       - Click on the Leagues tab
       - Verify the Leagues page is displayed
-      - Click on a league, selected from the test data file, for example, NHL
+      - Click on a league, which is selected from the test data file, for example, NHL
       - Verify the app takes the user to the NHL page
       - Click on the Navigate back button
       - Verify the user is redirected back to the Leagues page
