@@ -17,8 +17,8 @@ The framework was built with the following information
 
 ### Running Tests with Maven
 - Download the project
-- Navigate to the project directory
-- Simply execute the command in terminal:
+- Navigate to the project directory in terminal
+- Simply execute the command:
 ```
 mvn test
 ```
