@@ -3,7 +3,7 @@
 ## Overview
 
 This framework is generated to perform automation testing for the Android application for The Score using Appium and Java.
-The automation tests start with one scenario of two test cases to cover the functionality of checking a league as a new user and an existing user.
+The automation tests include one scenario with two test cases to cover the functionality of checking a league as a new user and an existing user.
 
 ## Setting Up and Running the Tests
 ### Prerequisites
