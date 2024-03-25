@@ -15,7 +15,15 @@ The framework was built with the following information
 - Test data file: exceldata.xlsx, and is located under /src/test/resources/thescore.MobileTestFramework.testData
 - This is a maven project, pom.xml file includes the related dependencies
 
-##Test Scenario: Open a league
+### Running Tests with Maven
+- Download the project
+- Navigate to the project directory
+- Simply execute the command in terminal:
+```
+mvn test
+```
+
+## Test Scenario: Open a league
 - Description: Verify the app opens the correct pages when user opens a league and navigate back to the Leagues Page
 - Test Case 1: Verify the flow as a guest
     - Test Steps:
@@ -45,7 +53,7 @@ The framework was built with the following information
       - Verify the app takes the user to the NHL page
       - Click on the Navigate back button
       - Verify the user is redirected back to the Leagues page
-     
+
 ## Test Approach Rationale
 The test approach was based on the two possible flows of how a new user or a registered user opens a league page beginning from launching the app. It's one of the critical user flows of how the user use the app.
 
