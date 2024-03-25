@@ -7,7 +7,7 @@ The automation tests start with one scenario of two test cases to cover the func
 
 ## Setting Up and Running the Tests
 ### Prerequisites
-The framework was built with the following tools and configuration.
+The framework was built with the following information
 - Android Studio for virtual Android device Pixel 6 Pro API 33
 - Appium Server version 2.5.1
 - Java version 11.0.17
